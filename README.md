@@ -27,14 +27,17 @@
 - [Бэкенд](https://github.com/andremoff/movies-explorer-api.git)
 
 ### Проект: Mesto
+![Mesto Preview](https://github.com/andremoff/react-mesto-auth/assets/117744283/b689dcf9-7713-42ba-8637-8d3c8f483299) 
 Учебное приложение для создания и управления коллекцией фотографий.
 - [Репозиторий](https://github.com/andremoff/react-mesto-api-full-gha.git)
 
 ### Проект: Путешествие по России
+![Russian Travel Preview](https://user-images.githubusercontent.com/117744283/208452941-34ba8663-a449-4316-b0ce-0d689453af3f.PNG)
 Одностраничный сайт, демонстрирующий навыки адаптивной верстки через исследование красот России.
 - [Репозиторий](https://github.com/andremoff/russian-travel.git)
 
 ### Проект: Научиться учиться
+![How to learn Preview](https://user-images.githubusercontent.com/117744283/203972993-54918587-ebb2-4147-a64b-5ded6b31ecc4.PNG)
 Одностраничный образовательный сайт, включающий анимации и современные методы верстки.
 - [Репозиторий](https://github.com/andremoff/how-to-learn.git)
 
