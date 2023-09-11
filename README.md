@@ -22,6 +22,7 @@
 
 ### Дипломная работа: Movie Explorer
 Платформа для поиска и сохранения информации о фильмах.
+![Movie Explorer Preview](https://github.com/andremoff/movies-explorer-frontend/assets/117744283/1b3d476e-5d48-4044-9ae2-d7546f652e71.png)
 - [Фронтенд](https://github.com/andremoff/movies-explorer-frontend.git)
 - [Бэкенд](https://github.com/andremoff/movies-explorer-api.git)
 
